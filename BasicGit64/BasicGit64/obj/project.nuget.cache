@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kuUjjTSZemY1OlYSfD4cg+vZjMqNMwSE4MOmIATxI0JtOkX7cnjINgXiFVkrHCTrIG22ynYzRX119sOYDpTEoA==",
+  "dgSpecHash": "wQCoOyeIzHOkMTxNLy5tjUUNmbJ5dZ42ZH/G61g8ODwucAnZn+eIvWC68nT99+DnLTnfumVgpEFwlULH3jhtyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nayn\\OneDrive\\Documents\\GitHub\\basic-git-64\\BasicGit64\\BasicGit64\\BasicGit64.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Nayn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
-    "C:\\Users\\Nayn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Nayn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Nayn\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\asus\\Documents\\FOLDER DEVI\\Project Devi_App.Dev\\Project\\basic-git-64\\BasicGit64\\BasicGit64\\BasicGit64.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
