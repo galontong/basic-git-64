@@ -8,6 +8,7 @@ namespace BasicGit64
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("By Herul Syahwadi");
+            Console.WriteLine("Gery here..");
         }
     }
 }
