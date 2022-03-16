@@ -13,7 +13,7 @@ namespace BasicGit64
 
         static void Herul()
         {
-
+            Console.WriteLine("herul");
         }
 
         static void Gery()
