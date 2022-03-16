@@ -28,7 +28,7 @@ namespace BasicGit64
 
         static void Gilang()
         {
-
+            Console.WriteLine("Ini Gilang");
         }
 
         static void Dhani()
