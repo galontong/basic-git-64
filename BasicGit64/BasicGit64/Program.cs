@@ -33,7 +33,7 @@ namespace BasicGit64
 
         static void Dhani()
         {
-
+            Console.WriteLine($"Ini dhani");
         }
     }
 }
