@@ -10,5 +10,30 @@ namespace BasicGit64
             Console.WriteLine("By Herul Syahwadi");
             Console.WriteLine("Gery here..");
         }
+
+        static void Herul()
+        {
+
+        }
+
+        static void Gery()
+        {
+
+        }
+
+        static void Devi()
+        {
+
+        }
+
+        static void Gilang()
+        {
+
+        }
+
+        static void Dhani()
+        {
+
+        }
     }
 }
