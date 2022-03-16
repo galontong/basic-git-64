@@ -23,7 +23,7 @@ namespace BasicGit64
 
         static void Devi()
         {
-
+            Console.WriteLine("Hello I am Devi");
         }
 
         static void Gilang()
